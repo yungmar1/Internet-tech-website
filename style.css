@@ -1,0 +1,23 @@
+html {
+	font-size: 18px;
+	font-family: "Gill Sans", sans-serif;
+	padding: 20px;
+}
+
+.header{
+	display: inline-block;
+	vertical-align: center;
+}
+.phone_num {
+	text-align: right;
+}
+
+.table_s {
+	border: 1px solid black;
+	text-align: center;
+}
+
+.table_s td {
+	border: 1px solid black;
+	padding: 5px;
+}
